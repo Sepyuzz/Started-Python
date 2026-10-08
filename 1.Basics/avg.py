@@ -1,0 +1,1 @@
+# take input of 2 float values and print it's average
