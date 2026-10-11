@@ -2,7 +2,7 @@
 Started on :8/10/26
 # To Do List
 - [x] Variables & Data Types
-- [ ] Strings & Conditionals
+- [x] Strings & Conditionals
 - [ ] Lists & Tuples
 - [ ] Dictionary & Sets
 - [ ] Loops
